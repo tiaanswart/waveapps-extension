@@ -1,3 +1,3 @@
-# ANZ Charts
+# WaveApps Extension
 
-Chrome extension to include line and pie charts into ANZ online banking web app.
+Chrome extension to include Sales Tax, ACC, Provisional Tax and KiwiSaver to WaveApp Dashboard.
