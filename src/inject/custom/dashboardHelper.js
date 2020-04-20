@@ -104,8 +104,8 @@
                     }, {
                         cells: [
                             'ACC Tax',
-                            (netIncomeLY * 0.015).toFixed(2),
-                            (netIncomeTY * 0.015).toFixed(2)
+                            (netIncomeLY * 0.017).toFixed(2),
+                            (netIncomeTY * 0.017).toFixed(2)
                         ]
                     }, {
                         cells: [
